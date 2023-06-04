@@ -53,11 +53,13 @@ s.send("Acknowledgement Recived".encode())
 # OUTPUT :
 # CLIENT OUTPUT:
 
-![image](https://github.com/kasivishvanathV/EX-2/assets/118787417/7e739ea1-fe48-4e89-8e80-e9d992ed9f90)
+![image](https://github.com/kasivishvanathV/EX-2/assets/118787417/28fbdb81-eaf5-4388-b082-e4c1db751536)
+
 
 # SERVER OUTPUT:
 
-![image](https://github.com/kasivishvanathV/EX-2/assets/118787417/dc9d3dc0-2e44-4b4c-b12a-9df7284be60c)
+![Screenshot (150)](https://github.com/kasivishvanathV/EX-2/assets/118787417/123769e7-1e29-43d9-acd8-decc4e02f468)
+
 
 
 
