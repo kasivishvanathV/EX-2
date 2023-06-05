@@ -21,7 +21,7 @@ will send NACKsignal to client.
 # PROGRAM :
 
 # CLIENT PROGRAM:
-
+```
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -38,9 +38,9 @@ else:
 c.close()
 break
 
-
+```
 # SERVER PROGRAM:
-
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
@@ -49,7 +49,7 @@ print(s.recv(1024).decode())
 s.send("Acknowledgement Recived".encode())
 
 
-
+```
 # OUTPUT :
 # CLIENT OUTPUT:
 
